@@ -13,9 +13,9 @@ Application of new SQL skills to analyze historical credit card transactions and
 Accomplish three main tasks:
 
 1. [Data Modeling](#Data-Modeling):
-Define a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
+Define a database model to store the credit card transactions data and create a new MySQL database using your model.
 
-2. [Data Engineering](#Data-Engineering): Create a database schema on PostgreSQL and populate your database from the CSV files provided.
+2. [Data Engineering](#Data-Engineering): Create a database schema on MySQL and populate your database from the CSV files provided.
 
 3. [Data Analysis](#Data-Analysis): Analyze the data to identify possible fraudulent transactions.
 
